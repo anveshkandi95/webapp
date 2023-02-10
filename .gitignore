@@ -1,2 +1,4 @@
 *.java
 *.net
+
+!second.java
